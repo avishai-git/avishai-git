@@ -1,4 +1,4 @@
-## Hi there 👋
+Currently learning at Bar-Ilan Univercity
 
 <!--
 **avishai-git/avishai-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
